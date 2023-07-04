@@ -1,2 +1,3 @@
 Sammlung von Lernzetteln
-Kein Garantie für irgendwas
+
+Keine Garantie auf Korrektheit oder Vollständigkeit
